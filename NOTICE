@@ -21,4 +21,3 @@ Some portions of this file Copyright (c) 2004-2006 Intel Corporation and license
 
 This project contains the following code copied from Apache Hive:
 streams/src/main/java/org/apache/kafka/streams/state/internals/Murmur3.java
-tttttest
